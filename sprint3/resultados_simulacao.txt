@@ -1,0 +1,13 @@
+Resultados intermediários:
+{'sessao': 2, 'tempo': 23.0, 'precisao': 79.34756723053317, 'erros': 11}
+{'sessao': 2, 'tempo': 23.0, 'precisao': 84.37517911266383, 'erros': 7}
+{'sessao': 2, 'tempo': 23.0, 'precisao': 20.463199472702176, 'erros': 4}
+
+Resultados em matriz:
+[2, 23.0, 68.94177872171352, 18]
+[2, 23.0, 75.44167280808928, 16]
+[2, 23.0, 38.25760613432048, 13]
+
+Média de tempo: 23.00 segundos
+Média de precisão: 61.40%
+Total de erros: 22
